@@ -41,6 +41,6 @@ public class TwitterP {
 	    // sample() method internally creates a thread which manipulates TwitterStream and calls these adequate listener methods continuously.
 	    twitterStream.sample();
 		
-		
+	}}	
 		
 
