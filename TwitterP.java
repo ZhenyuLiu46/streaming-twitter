@@ -6,7 +6,7 @@ import java.io.*;
 public class TwitterP {
 	
 	public static void main(String[] args) throws Exception {
-		PrintWriter writer = new PrintWriter("testOutput.txt", "UTF-8");
+		PrintWriter writer = new PrintWriter("Output.txt", "UTF-8");
 		
 		ConfigurationBuilder cb = new ConfigurationBuilder();
 		cb.setDebugEnabled(true)
